@@ -1,4 +1,4 @@
-module github.com/go-saas/sessions
+module github.com/jace996/sessions
 
 go 1.20
 
